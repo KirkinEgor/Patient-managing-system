@@ -106,7 +106,7 @@ python database.py
 **Архитектура приложения**
 ```text
 
-app/
+Patient-managing-system/
 ├── database.py              # Основной файл приложения
 ├── patients_data.json       # База данных пациентов (автосоздание)
 └── README.md               # Документация
